@@ -11,4 +11,4 @@ Hello I'm Kali
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wintrrss&show_icons=true&locale=en" alt="wintrrss" /></p>
 
-![WTFUMEAN](https://user-images.githubusercontent.com/90110710/161470368-01a769ff-5690-4b3c-90bb-fa4d3f6876da.png)
+![anime-typing](https://user-images.githubusercontent.com/90110710/166101884-f4d1fa38-f273-48e3-a354-ec0af58b1855.gif)
